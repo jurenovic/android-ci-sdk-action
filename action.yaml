@@ -1,0 +1,9 @@
+name: 'android-ci-sdk'
+description: 'android tasks'
+author: 'JureNovic <jurenovic@gmail.com>'
+branding:
+  icon: 'android'
+  color: 'green'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
